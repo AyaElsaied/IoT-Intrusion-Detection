@@ -4,7 +4,7 @@ An end-to-end Machine Learning pipeline designed to identify and classify malici
 
 ---
 
-## 👥 The Incredible Team
+## 👥 My Incredible Team
 This project was a collaborative effort by an **incredible team** under the supervision of **Eng. Antonios Malak**.
 * **Team Members:** [Toka Mustafa], [Gellan Romany], [Rewan Wael] ,[Reham Haroun Mousa]
 
@@ -36,6 +36,13 @@ We compared two powerhouse algorithms, both achieving exceptional results:
 
 ### Key Takeaway:
 The models revealed that the **type of connection attempt (Flags)** and the **traffic volume (Rate)** are the most critical signatures of botnet activity.
+
+---
+
+## 📊 Dataset Source
+The model was trained and evaluated using the **Bot-IoT Dataset**. Due to the large file sizes, the raw data is not included in this repository. You can access and download the dataset from Kaggle:
+
+🔗 [Bot-IoT Dataset on Kaggle](https://www.kaggle.com/datasets/vigneshvenkateswaran/bot-iot)
 
 ---
 
