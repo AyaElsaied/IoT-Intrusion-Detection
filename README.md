@@ -4,12 +4,6 @@ An end-to-end Machine Learning pipeline designed to identify and classify malici
 
 ---
 
-## 👥 My Incredible Team
-This project was a collaborative effort by an **incredible team** under the supervision of **Eng. Antonios Malak**.
-* **Team Members:** [Toka Mustafa], [Gellan Romany], [Rewan Wael] ,[Reham Haroun Mousa]
-
----
-
 ## 🚀 Project Highlights
 
 ### 1. Eliminating Data Leakage
